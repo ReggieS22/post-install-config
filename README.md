@@ -32,18 +32,15 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+
+
+
 <strong>2. Admin Panel > Agents > Roles.</strong>
 <p>
- />
 </p>
 <p>
 </p>
 <br />
-
-
-
-
-
 <p>
 <img <img width="829" height="473" alt="Screenshot 2025-09-01 181421" src="https://github.com/user-attachments/assets/1ba8bdea-2066-4cf1-b5a6-58c39010c646" />
 />
