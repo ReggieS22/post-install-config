@@ -31,7 +31,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Help Topics
 
 <h2>Configuration Steps</h2>
-
+<p align="center">
+  <strong>Configure Roles</strong>
+</p>
 
 
 
