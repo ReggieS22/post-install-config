@@ -30,6 +30,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure SLA
 - Configure Help Topics
 
+
+
+
+
 <p align="center">
   <h1>This text is centered and BIG!</h1>
 </p>
