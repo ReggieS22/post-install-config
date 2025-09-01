@@ -32,7 +32,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 <p align="center">
-  <strong>Configure Roles</strong>
+  <h1>Configure Roles</h1>
 </p>
 
 
