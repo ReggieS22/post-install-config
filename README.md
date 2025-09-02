@@ -170,6 +170,30 @@ Both agents have all access to the Support Department
 
 
 
+<p align="center">
+  <h1>Configure End Users (customers)</h1>
+</p>
+
+
+
+<strong>Admin Panel > Users > Add New.</strong>
+<p>
+Karen (end user):
+</p>
+<p>
+</p>
+<br />
+<p>
+<img <img width="643" height="389" alt="Screenshot 2025-09-01 182746" src="https://github.com/user-attachments/assets/867e6744-583e-473a-82c0-917d16f72623"/>
+</p>
+
+Repeat this step for any internal end users.
+<p>
+</p>
+<br />
+
+
+
 
 
 
