@@ -159,6 +159,8 @@ Ben Crawford:
 Jane Doe: 
 <img width="952" height="813" alt="Screenshot 2025-09-01 182435" src="https://github.com/user-attachments/assets/fa90c704-ff38-4f65-ae63-a8218890e7b0"/>
 
+<img width="957" height="397" alt="Screenshot 2025-09-01 182458" src="https://github.com/user-attachments/assets/1b04352e-afed-45c1-a5ce-13d2e87ffda6"/>
+Both agents have all access to the Support Department
 </p>
 <br />
 
