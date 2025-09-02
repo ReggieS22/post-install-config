@@ -40,7 +40,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-<strong>2. Admin Panel > Agents > Roles.</strong>
+<strong>Admin Panel > Agents > Roles.</strong>
 <p>
 </p>
 <p>
@@ -55,7 +55,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <img width="828" height="340" alt="Screenshot 2025-09-01 181513" src="https://github.com/user-attachments/assets/a53874f3-fd6a-4fe2-8646-80b68185ce9d"/>
 
-<img width="825" height="379" alt="Screenshot 2025-09-01 181524" src="https://github.com/user-attachments/assets/376672b6-6a18-4842-a0dd-584d1ecb0e5d" />
+<img width="825" height="379" alt="Screenshot 2025-09-01 181524" src="https://github.com/user-attachments/assets/376672b6-6a18-4842-a0dd-584d1ecb0e5d"/>
 
 
 
@@ -66,18 +66,25 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 
+
+
+<p align="center">
+  <h1>Configure Departments</h1>
+</p>
+
+
+
+<strong>Admin Panel > Agents > Departments.</strong>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+System Administrators:
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="831" height="555" alt="Screenshot 2025-09-01 181549" src="https://github.com/user-attachments/assets/46e421ac-0841-45c6-af64-c9aff42857ab" />
+/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
