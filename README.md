@@ -202,9 +202,9 @@ Repeat this step for any internal end users.
 
 <strong>Admin Panel > Manage > SLA.</strong>
 <p>
-- Sev-A (1 hour, 24/7).
-- Sev-B (4 hours, 24/7).
-- Sev-C (8 hours, business hours).
+Sev-A (1 hour, 24/7).
+Sev-B (4 hours, 24/7).
+Sev-C (8 hours, business hours).
 </p>
 <p>
 </p>
@@ -230,10 +230,10 @@ Repeat this step for any internal end users.
 
 <strong>Admin Panel > Manage > Help Topics.</strong>
 <p>
-- Business Critical Outage.
-- Personal Computer Issues.
-- Equipment Request.
-- Password Reset.
+ Business Critical Outage.
+ Personal Computer Issues.
+ Equipment Request.
+Password Reset.
 </p>
 <p>
 </p>
@@ -241,7 +241,7 @@ Repeat this step for any internal end users.
 <p>
 <img <img width="828" height="548" alt="Screenshot 2025-09-01 182842" src="https://github.com/user-attachments/assets/7d3e5f91-7e28-4ddf-838e-be2ec38328d9"/>
 
-<img <img width="827" height="549" alt="Screenshot 2025-09-01 182904" src="https://github.com/user-attachments/assets/37b05b06-e059-438c-82fd-878ab50b5967"/>
+<img width="827" height="549" alt="Screenshot 2025-09-01 182904" src="https://github.com/user-attachments/assets/37b05b06-e059-438c-82fd-878ab50b5967"/>
 
 <img width="829" height="543" alt="Screenshot 2025-09-01 182915" src="https://github.com/user-attachments/assets/72ae8c1d-43c8-4d0d-b892-227af6245087"/>
 
