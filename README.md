@@ -114,3 +114,57 @@ Online Banking:
 </p>
 <br />
 
+
+
+
+<p align="center">
+  <h1>Allow anyone to create a ticket</h1>
+</p>
+
+
+
+<strong>Admin Panel > Settings > User Settings.</strong>
+<p>
+Make sure "Require registration and login to create tickets" is NOT selected:
+</p>
+<p>
+</p>
+<br />
+<p>
+<img <img width="828" height="561" alt="Screenshot 2025-09-01 182137" src="https://github.com/user-attachments/assets/990558ed-a3f9-4040-8831-b478e7113aca"/>
+</p>
+<p>
+</p>
+<br />
+
+
+
+<p align="center">
+  <h1>Configure Agents (workers)</h1>
+</p>
+
+
+
+<strong>Admin Panel > Agents > Add New.</strong>
+<p>
+Ben Crawford:
+</p>
+<p>
+</p>
+<br />
+<p>
+<img <img width="951" height="809" alt="Screenshot 2025-09-01 182410" src="https://github.com/user-attachments/assets/524b0adf-9324-4611-8375-f8ef5a95fcc7"/>
+</p>
+<p>
+Jane Doe: 
+<img width="952" height="813" alt="Screenshot 2025-09-01 182435" src="https://github.com/user-attachments/assets/fa90c704-ff38-4f65-ae63-a8218890e7b0"/>
+
+</p>
+<br />
+
+
+
+
+
+
+
