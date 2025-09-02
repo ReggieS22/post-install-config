@@ -194,6 +194,39 @@ Repeat this step for any internal end users.
 
 
 
+<p align="center">
+  <h1>Configure SLA (Service Level Agreement)</h1>
+</p>
+
+
+
+<strong>Admin Panel > Manage > SLA.</strong>
+<p>
+- Sev-A (1 hour, 24/7).
+- Sev-B (4 hours, 24/7).
+- Sev-C (8 hours, business hours).
+</p>
+<p>
+</p>
+<br />
+<p>
+<img <img width="828" height="535" alt="Screenshot 2025-09-01 182806" src="https://github.com/user-attachments/assets/d94ce8f0-bf22-4228-ac13-d19de8970702"/>
+
+<img width="829" height="541" alt="Screenshot 2025-09-01 182818" src="https://github.com/user-attachments/assets/b942ca46-f0fd-40be-b604-6fd84b6ef577"/>
+
+<img width="830" height="526" alt="Screenshot 2025-09-01 182828" src="https://github.com/user-attachments/assets/758a1d52-4a0b-47a2-b941-1792d237f6ee"/>
+
+
+
+</p>
+
+Repeat this step for any internal end users.
+<p>
+</p>
+<br />
+
+
+
 
 
 
