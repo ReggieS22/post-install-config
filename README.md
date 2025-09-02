@@ -215,13 +215,41 @@ Repeat this step for any internal end users.
 <img width="829" height="541" alt="Screenshot 2025-09-01 182818" src="https://github.com/user-attachments/assets/b942ca46-f0fd-40be-b604-6fd84b6ef577"/>
 
 <img width="830" height="526" alt="Screenshot 2025-09-01 182828" src="https://github.com/user-attachments/assets/758a1d52-4a0b-47a2-b941-1792d237f6ee"/>
+</p>
+<p>
+</p>
+<br />
 
 
 
+<p align="center">
+  <h1>Configure Help Topics</h1>
 </p>
 
-Repeat this step for any internal end users.
+
+
+<strong>Admin Panel > Manage > Help Topics.</strong>
 <p>
+- Business Critical Outage.
+- Personal Computer Issues.
+- Equipment Request.
+- Password Reset.
+</p>
+<p>
+</p>
+<br />
+<p>
+<img <img width="828" height="548" alt="Screenshot 2025-09-01 182842" src="https://github.com/user-attachments/assets/7d3e5f91-7e28-4ddf-838e-be2ec38328d9"/>
+
+<img <img width="827" height="549" alt="Screenshot 2025-09-01 182904" src="https://github.com/user-attachments/assets/37b05b06-e059-438c-82fd-878ab50b5967"/>
+
+<img width="829" height="543" alt="Screenshot 2025-09-01 182915" src="https://github.com/user-attachments/assets/72ae8c1d-43c8-4d0d-b892-227af6245087"/>
+
+<img width="833" height="539" alt="Screenshot 2025-09-01 182926" src="https://github.com/user-attachments/assets/f67fd52c-b651-4524-a079-348f9dca46d6" />
+
+</p>
+<p>
+Hope this will helpful with all the configurations to have a smooth osTicket experience!
 </p>
 <br />
 
