@@ -88,3 +88,29 @@ System Administrators:
 <p>
 </p>
 <br />
+
+
+
+
+
+
+<p align="center">
+  <h1>Configure Teams</h1>
+</p>
+
+
+
+<strong>Admin Panel > Agents > Teams.</strong>
+<p>
+Online Banking:
+</p>
+<p>
+</p>
+<br />
+<p>
+<img <img width="957" height="673" alt="Screenshot 2025-09-01 182109" src="https://github.com/user-attachments/assets/c94f56f3-839d-48e2-a95c-01f39473858c"/>
+</p>
+<p>
+</p>
+<br />
+
