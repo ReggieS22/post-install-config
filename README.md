@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p align="center">
-  <h1>This text is centered and BIG!</h1>
+  <h1>Configure Roles</h1>
 </p>
 
 
@@ -47,9 +47,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <br />
 <p>
-<img <img width="829" height="473" alt="Screenshot 2025-09-01 181421" src="https://github.com/user-attachments/assets/1ba8bdea-2066-4cf1-b5a6-58c39010c646" />
-/>
+<img <img width="829" height="473" alt="Screenshot 2025-09-01 181421" src="https://github.com/user-attachments/assets/1ba8bdea-2066-4cf1-b5a6-58c39010c646"/>
 </p>
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
