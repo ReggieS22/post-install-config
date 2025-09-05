@@ -82,8 +82,7 @@ System Administrators:
 </p>
 <br />
 <p>
-<img <img width="831" height="555" alt="Screenshot 2025-09-01 181549" src="https://github.com/user-attachments/assets/46e421ac-0841-45c6-af64-c9aff42857ab" />
-/>
+<img <img width="831" height="555" alt="Screenshot 2025-09-01 181549" src="https://github.com/user-attachments/assets/46e421ac-0841-45c6-af64-c9aff42857ab"/>
 </p>
 <p>
 </p>
